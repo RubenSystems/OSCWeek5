@@ -12,7 +12,6 @@ Repeat this for both folders:
 
 From your computer, create a new folder (`mkdir osc-coursework`) go into it (`cd osc-coursework`) and then clone both repos into them (`git clone <URL OF REPO HERE>`)
 
-copy paste the run-infos file into the `osc-coursework` folder. you should be able to proceed as normal.
 
 ### Things to worry about 
 - Make both repos private otherwise you will be invited to a meeting with academic misconduct
