@@ -22,7 +22,4 @@ Guide to set up operating systems coursework
 
 This should work. If it doesn't, ask for help. 
 
-## If you are too cool to share computers
-If you don't want to log in every time and super know what you are doing, you can work on your own personal computer using git:
 
-[Git Tutorial for the cool kids](https://github.com/RubenSystems/OSCWeek5/blob/main/GitSetup.md)
