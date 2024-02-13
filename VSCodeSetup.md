@@ -14,5 +14,6 @@
 6. Type this in (remember to change your knumber) `ssh -J k1234567@bastion.nms.kcl.ac.uk k1234567@5CCS2OSC.nms.kcl.ac.uk`
 7. Choose a SSH Config File to add to (the ones that show up depend on your system)
 8. Something should come up saying **Host Added!**. Press the Connect Button
+9. Enter your password (often the prompt comes up twice)
 
 This should work. If it doesn't, ask for help. 
