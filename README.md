@@ -1,2 +1,2 @@
-# OSCWeek5
+# Assignment 2 setup
 Guide to set up operating systems coursework
